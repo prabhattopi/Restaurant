@@ -1,0 +1,194 @@
+[
+    {
+        "id":"1",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.0",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": "200",
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"2",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+      "name": "Pakao Pao Bhaji",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": "200",
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"3",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+      "name": "Chhotkan Kulchha",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.5",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": "200",
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"4",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+      "name": "Kurkura Allo",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.9",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": "400",
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"5",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+      "name": "Patela Pizza",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": "500",
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"6",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+      "name": "Sana San Sandwich",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":400,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"7",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+      "name": "Ghosta Mutun",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "2.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":200,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"8",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+      "name": "Pil Pil Pulawo",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "3.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":100,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"9",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant9.jpeg",
+      "name": "Thika Paratha",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "2.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":200,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"10",
+      "image":   "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant10.jpeg",
+      "name": "Bhan Bhan Biryani",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "3.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":250,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"11",
+      "image":   "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xw4fbpba4fcojowhtzd2",
+      "name": "Chatela Chowmein",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "3.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":100,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id":"12",
+      "image":   "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e2er73fnth8l8cwqs2pw",
+      "name": "Sudh Ghee Besan Laadu",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "5.0",
+      "deliveryTimings": "33 MINS",
+      "costForTwo":100,
+      "offer": ["20% off", "Use TRYNEW"]
+    }
+  ]
